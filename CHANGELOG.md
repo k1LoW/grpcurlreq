@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.1.3](https://github.com/k1LoW/grpcurlreq/compare/v0.1.2...v0.1.3) - 2023-10-26
+- Bump google.golang.org/grpc from 1.53.0 to 1.56.3 by @dependabot in https://github.com/k1LoW/grpcurlreq/pull/8
+
 ## [v0.1.2](https://github.com/k1LoW/grpcurlreq/compare/v0.1.1...v0.1.2) - 2023-10-12
 - Bump golang.org/x/net from 0.0.0-20201021035429-f5854403a974 to 0.7.0 by @dependabot in https://github.com/k1LoW/grpcurlreq/pull/4
 - Bump google.golang.org/grpc from 1.50.1 to 1.53.0 by @dependabot in https://github.com/k1LoW/grpcurlreq/pull/6
