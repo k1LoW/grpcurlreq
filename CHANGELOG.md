@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.2.1](https://github.com/k1LoW/grpcurlreq/compare/v0.2.0...v0.2.1) - 2024-04-19
+- Bump golang.org/x/net from 0.20.0 to 0.23.0 by @dependabot in https://github.com/k1LoW/grpcurlreq/pull/13
+
 ## [v0.2.0](https://github.com/k1LoW/grpcurlreq/compare/v0.1.3...v0.2.0) - 2024-03-16
 - Update pkgs by @k1LoW in https://github.com/k1LoW/grpcurlreq/pull/11
 
