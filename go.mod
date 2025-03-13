@@ -1,6 +1,6 @@
 module github.com/k1LoW/grpcurlreq
 
-go 1.19
+go 1.23
 
 require (
 	github.com/fullstorydev/grpcurl v1.8.7
