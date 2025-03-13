@@ -30,7 +30,7 @@ type Parsed struct {
 var addrRe = regexp.MustCompile(`:[0-9]+$`)
 var methodRe = regexp.MustCompile(`^[a-zA-Z][a-zA-Z0-9_./]+$`)
 
-// Parse a grpcurl command
+// Parse a grpcurl command.
 func Parse(cmd ...string) (*Parsed, error) {
 	args, err := cmdToArgs(cmd...)
 	if err != nil {
