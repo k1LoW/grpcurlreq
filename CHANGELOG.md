@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.2.4](https://github.com/k1LoW/grpcurlreq/compare/v0.2.3...v0.2.4) - 2025-12-19
+- chore: setup tagpr labels by @k1LoW in https://github.com/k1LoW/grpcurlreq/pull/19
+- chore(deps): bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/22
+- chore(deps): bump the dependencies group with 3 updates by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/21
+
 ## [v0.2.3](https://github.com/k1LoW/grpcurlreq/compare/v0.2.2...v0.2.3) - 2025-04-17
 
 ## [v0.2.2](https://github.com/k1LoW/grpcurlreq/compare/v0.2.1...v0.2.2) - 2025-03-13
