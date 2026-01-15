@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.2.5](https://github.com/k1LoW/grpcurlreq/compare/v0.2.4...v0.2.5) - 2026-01-15
+- chore(deps): bump Songmu/tagpr from 1.10.0 to 1.11.0 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/24
+- chore(deps): bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/26
+
 ## [v0.2.4](https://github.com/k1LoW/grpcurlreq/compare/v0.2.3...v0.2.4) - 2025-12-19
 - chore: setup tagpr labels by @k1LoW in https://github.com/k1LoW/grpcurlreq/pull/19
 - chore(deps): bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/22
