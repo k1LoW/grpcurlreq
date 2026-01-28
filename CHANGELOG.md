@@ -1,5 +1,12 @@
 # Changelog
 
+## [v0.2.5](https://github.com/k1LoW/grpcurlreq/compare/v0.2.4...v0.2.5) - 2026-01-28
+- chore(deps): bump Songmu/tagpr from 1.10.0 to 1.11.0 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/24
+- chore(deps): bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/26
+- chore(deps): bump google.golang.org/grpc from 1.77.0 to 1.78.0 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/23
+- chore(deps): bump Songmu/tagpr from 1.11.1 to 1.12.1 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/27
+- chore(deps): bump actions/checkout from 6.0.1 to 6.0.2 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/28
+
 ## [v0.2.4](https://github.com/k1LoW/grpcurlreq/compare/v0.2.3...v0.2.4) - 2025-12-19
 - chore: setup tagpr labels by @k1LoW in https://github.com/k1LoW/grpcurlreq/pull/19
 - chore(deps): bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/22
