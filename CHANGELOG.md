@@ -1,5 +1,14 @@
 # Changelog
 
+## [v0.2.7](https://github.com/k1LoW/grpcurlreq/compare/v0.2.6...v0.2.7) - 2026-04-03
+- chore(deps): bump the dependencies group across 1 directory with 2 updates by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/33
+- chore(deps): bump google.golang.org/grpc from 1.78.0 to 1.79.1 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/31
+- chore(deps): bump google.golang.org/grpc from 1.79.2 to 1.79.3 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/35
+- chore(deps): bump reviewdog/action-golangci-lint from 2.8.0 to 2.10.0 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/36
+- chore(deps): bump google.golang.org/grpc from 1.79.3 to 1.80.0 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/37
+- chore(deps): bump actions/setup-go from 6.3.0 to 6.4.0 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/38
+- chore(deps): bump github.com/go-jose/go-jose/v4 from 4.1.3 to 4.1.4 by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/39
+
 ## [v0.2.6](https://github.com/k1LoW/grpcurlreq/compare/v0.2.5...v0.2.6) - 2026-02-05
 - chore(deps): bump Songmu/tagpr from 1.12.1 to 1.15.0 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/29
 
