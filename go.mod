@@ -5,7 +5,7 @@ go 1.24.0
 require (
 	github.com/fullstorydev/grpcurl v1.9.3
 	github.com/google/go-cmp v0.7.0
-	github.com/mattn/go-shellwords v1.0.12
+	github.com/mattn/go-shellwords v1.0.13
 	google.golang.org/grpc v1.80.0
 )
 
