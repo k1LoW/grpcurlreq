@@ -6,7 +6,7 @@ require (
 	github.com/fullstorydev/grpcurl v1.9.3
 	github.com/google/go-cmp v0.7.0
 	github.com/mattn/go-shellwords v1.0.13
-	google.golang.org/grpc v1.81.0
+	google.golang.org/grpc v1.81.1
 )
 
 require (
