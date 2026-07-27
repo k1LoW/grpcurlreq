@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.2.9](https://github.com/k1LoW/grpcurlreq/compare/v0.2.8...v0.2.9) - 2026-07-27
+
+- chore(deps): bump google.golang.org/grpc from 1.81.1 to 1.82.1 by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/53
+- chore(deps): bump the dependencies group across 1 directory with 3 updates by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/49
+- chore(deps): bump github.com/mattn/go-shellwords from 1.0.13 to 1.0.14 in the dependencies group across 1 directory by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/55
+
 ## [v0.2.8](https://github.com/k1LoW/grpcurlreq/compare/v0.2.7...v0.2.8) - 2026-07-04
 - chore(deps): bump Songmu/tagpr from 1.17.1 to 1.18.1 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/40
 - chore(deps): bump Songmu/tagpr from 1.18.1 to 1.18.2 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/43
