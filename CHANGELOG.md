@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.2.10](https://github.com/k1LoW/grpcurlreq/compare/v0.2.9...v0.2.10) - 2026-09-28
+
+- ci: generate CREDITS with gocredits v1.0.0 from a make target by @k1LoW in https://github.com/k1LoW/grpcurlreq/pull/61
+
 ## [v0.2.9](https://github.com/k1LoW/grpcurlreq/compare/v0.2.8...v0.2.9) - 2026-07-27
 
 - chore(deps): bump google.golang.org/grpc from 1.81.1 to 1.82.1 by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/53
