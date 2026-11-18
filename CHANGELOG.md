@@ -1,5 +1,13 @@
 # Changelog
 
+## [v0.2.10](https://github.com/k1LoW/grpcurlreq/compare/v0.2.9...v0.2.10) - 2026-11-18
+
+- ci: generate CREDITS with gocredits v1.0.0 from a make target by @k1LoW in https://github.com/k1LoW/grpcurlreq/pull/61
+- chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.1 by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/58
+- chore(deps): bump the dependencies group across 1 directory with 5 updates by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/63
+- chore(deps): bump the dependencies group across 1 directory with 3 updates by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/60
+- chore(deps): bump github.com/go-jose/go-jose/v4 from 4.1.4 to 4.1.6 by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/65
+
 ## [v0.2.9](https://github.com/k1LoW/grpcurlreq/compare/v0.2.8...v0.2.9) - 2026-07-27
 
 - chore(deps): bump google.golang.org/grpc from 1.81.1 to 1.82.1 by @dependabot[bot] in https://github.com/k1LoW/grpcurlreq/pull/53
